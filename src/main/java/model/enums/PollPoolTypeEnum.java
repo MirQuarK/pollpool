@@ -1,4 +1,4 @@
-package model.enum;
+package model.enums;
 
 
 /**

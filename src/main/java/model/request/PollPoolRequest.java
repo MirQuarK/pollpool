@@ -1,6 +1,7 @@
 package model.request;
 
 import java.io.Serializable;
+import model.enums.PollPoolTypeEnum;
 
 /**
  * Created by Quark on 16/8/12.
