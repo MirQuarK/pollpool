@@ -8,6 +8,8 @@ import model.enums.PollPoolTypeEnum;
  */
 public class PollPoolRequest implements Serializable {
 
+    private static final long serialVersionUID = -2139066245712172042L;
+
     /** 参与人数,不包括裁判 */
     private int playerNumber;
 

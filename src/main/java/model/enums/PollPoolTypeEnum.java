@@ -13,6 +13,12 @@ public enum PollPoolTypeEnum {
     AMERICAN_SIDEPOCKET("AMERICAN_SIDEPOCKET","美式9球");
 
 
+    /** 参数名称 */
+    private String code;
+
+    /** 参数业务描述 */
+    private String desc;
+
     /**
      * 构造方法
      *
